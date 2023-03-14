@@ -1,0 +1,1 @@
+JACKAL_URDF_EXTRAS=$(rospack find brobohub)/urdf/robohub_jackal_sensors.urdf.xacro
